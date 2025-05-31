@@ -7,7 +7,7 @@ Một số dự án phân tích dữ liệu tập trung vào các chủ đề v�
 ## 1. Supply Chain Performance Dashboard  
 **Mục tiêu**: Đánh giá hiệu quả vận hành chuỗi cung ứng thông qua phân tích đơn hàng, giao hàng và lợi nhuận.  
 **Công cụ**: Power BI, DAX  
-🔗 [Xem chi tiết](./Supply Chain Performance Dashboard)
+🔗 [Xem chi tiết](https://github.com/thaitranvenn/data-analytics-portfolio/tree/main/Supply%20Chain%20and%20Freight%20Analytics%20Dashboard)
 
 - Xây dựng dashboard trực quan để theo dõi shipping mode, delay, profit và discount theo thời gian, khu vực và loại khách hàng  
 - Tạo các measure DAX để tính shipping delay, tỷ lệ giao hàng trễ, phân loại đơn hàng lợi nhuận thấp  
@@ -19,7 +19,7 @@ Một số dự án phân tích dữ liệu tập trung vào các chủ đề v�
 ## 2. Freight Analysis  
 **Mục tiêu**: Phân tích chi phí vận chuyển và hỗ trợ tối ưu hoạt động giao hàng.  
 **Công cụ**: Excel (Power Query, PivotTable), Power BI  
-🔗 [Xem chi tiết](./freight-analysis)
+🔗 [Xem chi tiết]([./freight-analysis](https://github.com/thaitranvenn/data-analytics-portfolio/tree/main/Supply%20Chain%20Performance%20Dashboard))
 
 - Làm sạch và chuẩn hóa dữ liệu chi phí vận tải, lộ trình và lương tài xế  
 - Phân tích phân phối tải trọng, mức chi phí theo tuyến và tài xế  
